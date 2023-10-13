@@ -79,7 +79,7 @@ h1{
 
 .cover .bottom{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   border-radius: 12px;
   background-color: rgba(255, 255, 255, 0.2);
   margin: 1em auto;
